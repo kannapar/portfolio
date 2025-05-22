@@ -8,6 +8,7 @@ const nextConfig = {
   },
   basePath: "/portfolio",
   trailingSlash: true,
+  assetPrefix: "/portfolio/",
 };
 
 export default nextConfig;
