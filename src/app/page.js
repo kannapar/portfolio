@@ -34,7 +34,7 @@ export default function Home() {
         <div
           className="flex-1/4 bg-cover bg-top rounded-t-2xl"
           style={{
-            backgroundImage: "url('/images/REX03490.JPG')",
+            backgroundImage: "url('/portfolio/images/REX03490.JPG')",
           }}
         >
           {/* Optional overlay to darken the top image if needed */}

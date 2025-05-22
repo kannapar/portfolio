@@ -15,7 +15,7 @@ export default function FooterComponents() {
         </Button>
       </Link>
       <Link
-        href="https://github.com/kannapar/ETF-Forge"
+        href="https://github.com/kannapar"
         target="_blank"
         rel="noopener noreferrer"
       >
