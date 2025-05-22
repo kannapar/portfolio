@@ -1,1 +1,0 @@
-# kannapar.github.io
